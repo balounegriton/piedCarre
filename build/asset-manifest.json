@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/piedCarre/static/css/main.406dc85c.chunk.css",
+    "main.js": "/piedCarre/static/js/main.09777ac8.chunk.js",
+    "main.js.map": "/piedCarre/static/js/main.09777ac8.chunk.js.map",
+    "runtime-main.js": "/piedCarre/static/js/runtime-main.02c694ff.js",
+    "runtime-main.js.map": "/piedCarre/static/js/runtime-main.02c694ff.js.map",
+    "static/js/2.6919066d.chunk.js": "/piedCarre/static/js/2.6919066d.chunk.js",
+    "static/js/2.6919066d.chunk.js.map": "/piedCarre/static/js/2.6919066d.chunk.js.map",
+    "index.html": "/piedCarre/index.html",
+    "static/css/main.406dc85c.chunk.css.map": "/piedCarre/static/css/main.406dc85c.chunk.css.map",
+    "static/js/2.6919066d.chunk.js.LICENSE.txt": "/piedCarre/static/js/2.6919066d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02c694ff.js",
+    "static/js/2.6919066d.chunk.js",
+    "static/css/main.406dc85c.chunk.css",
+    "static/js/main.09777ac8.chunk.js"
+  ]
+}
